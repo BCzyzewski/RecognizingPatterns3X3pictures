@@ -1,0 +1,1 @@
+## Recognizing patterns on 3 X 3 pixel pictures using Neural Nets
